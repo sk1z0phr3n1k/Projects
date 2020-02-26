@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  TicTacToe.cpp.cpp
+  ttt.cpp
+  Generating code
+c:\users\mw_gr\source\repos\tictactoe.cpp\tictactoe.cpp\ttt.cpp(239): warning C4715: 'TTT::CheckForWinner': not all control paths return a value
+  All 153 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TicTacToe.cpp.vcxproj -> C:\Users\MW_GR\source\repos\TicTacToe.cpp\Release\TicTacToe.cpp.exe
