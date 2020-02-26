@@ -1,0 +1,16 @@
+Name: Fuzzgut
+Score: 5600
+Health: 0
+Strength: 76
+Dexterity: 83
+Intelligence: 89
+Weapon: Staff of Holding Yourself Up
+Class: Drunken Wizard
+Spell List
+
+Balls of Burning
+Thunderfinger
+Blast of Grossness
+Piercing Missle of Piercingness
+Funk Smelling Fist of Assault
+

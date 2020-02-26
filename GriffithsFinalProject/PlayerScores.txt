@@ -1,0 +1,232 @@
+Name: Fizzlenuts
+Score: 5600
+Health: 40
+Strength: 27
+Dexterity: 68
+Intelligence: 88
+Weapon: Full Auto Skull Perforator
+Class: Space Marine
+Damage Mod: 55.5
+
+Name: Durr
+Score: 0
+Health: 1
+Strength: 1
+Dexterity: 1
+Intelligence: 1
+Weapon: Fists!
+Class: Nooblet
+
+Name: Durr
+Score: 0
+Health: 1
+Strength: 1
+Dexterity: 1
+Intelligence: 1
+Weapon: Fists!
+Class: Nooblet
+
+Name: Durr
+Score: 0
+Health: 1
+Strength: 1
+Dexterity: 1
+Intelligence: 1
+Weapon: Fists!
+Class: Nooblet
+
+Name: Durr
+Score: 0
+Health: 1
+Strength: 1
+Dexterity: 1
+Intelligence: 1
+Weapon: Fists!
+Class: Nooblet
+
+Name: Durr
+Score: 0
+Health: 1
+Strength: 1
+Dexterity: 1
+Intelligence: 1
+Weapon: Fists!
+Class: Nooblet
+
+Name: Durr
+Score: 0
+Health: 1
+Strength: 1
+Dexterity: 1
+Intelligence: 1
+Weapon: Fists!
+Class: Nooblet
+
+Name: Durr
+Score: 0
+Health: 1
+Strength: 1
+Dexterity: 1
+Intelligence: 1
+Weapon: Fists!
+Class: Nooblet
+
+Name: Durr
+Score: 0
+Health: 1
+Strength: 1
+Dexterity: 1
+Intelligence: 1
+Weapon: Fists!
+Class: Nooblet
+
+Name: asdf
+Score: 5000
+Health: 280
+Strength: 26
+Dexterity: 5
+Intelligence: 60
+Weapon: Sonice Fists of Death
+Class: Barbarian!
+Rage Strength Bonus: 40
+
+Name: asdf
+Score: 5000
+Health: 280
+Strength: 75
+Dexterity: 8
+Intelligence: 66
+Weapon: Brode Sode!
+Class: Barbarian!
+Rage Strength Bonus: 90
+
+Name: asdf
+Score: 2000
+Health: 280
+Strength: 34
+Dexterity: 86
+Intelligence: 82
+Weapon: Staff of Holding Yourself Up
+Class: Drunken Wizard
+Spell List
+
+Balls of Burning
+Thunderfinger
+Blast of Grossness
+null
+null
+
+Name: Fisto
+Score: 5100
+Health: 280
+Strength: 47
+Dexterity: 41
+Intelligence: 99
+Weapon: Staff of Holding Yourself Up
+Class: Drunken Wizard
+Spell List
+
+Balls of Burning
+Thunderfinger
+Blast of Grossness
+Dank Cloud
+Funk Smelling Fist of Assault
+
+Name: Fistinator
+Score: 5600
+Health: 0
+Strength: 100
+Dexterity: 75
+Intelligence: 79
+Weapon: Staff of Holding Yourself Up
+Class: Drunken Wizard
+Spell List
+
+Balls of Burning
+Thunderfinger
+Blast of Grossness
+Piercing Missle of Piercingness
+OMG THE ROOM IS ON FIRE
+
+Name: Ballz
+Score: 5100
+Health: 0
+Strength: 79
+Dexterity: 70
+Intelligence: 87
+Weapon: Staff of Holding Yourself Up
+Class: Drunken Wizard
+Spell List
+
+Balls of Burning
+Thunderfinger
+Blast of Grossness
+Funk Smelling Fist of Assault
+OMG THE ROOM IS ON FIRE
+
+Name: Buttsteak
+Score: 5600
+Health: 0
+Strength: 83
+Dexterity: 66
+Intelligence: 96
+Weapon: Staff of Holding Yourself Up
+Class: Drunken Wizard
+Spell List
+
+Balls of Burning
+Thunderfinger
+Blast of Grossness
+OMG THE ROOM IS ON FIRE
+Funk Smelling Fist of Assault
+
+Name: Fuzbag
+Score: 5100
+Health: 0
+Strength: 74
+Dexterity: 91
+Intelligence: 95
+Weapon: Staff of Holding Yourself Up
+Class: Drunken Wizard
+Spell List
+
+Balls of Burning
+Thunderfinger
+Blast of Grossness
+Dank Cloud
+Funk Smelling Fist of Assault
+
+Name: Durr
+Score: 0
+Health: 1
+Strength: 1
+Dexterity: 1
+Intelligence: 1
+Weapon: Fists!
+Class: Nooblet
+
+Name: Durr
+Score: 0
+Health: 1
+Strength: 1
+Dexterity: 1
+Intelligence: 1
+Weapon: Fists!
+Class: Nooblet
+
+Name: ggggg
+Score: 1850
+Health: 0
+Strength: 23
+Dexterity: 26
+Intelligence: 37
+Weapon: Staff of Holding Yourself Up
+Class: Drunken Wizard
+Spell List
+
+Balls of Burning
+Thunderfinger
+Blast of Grossness
+Transformation of OMGLOL
+Piercing Missle of Piercingness
+
