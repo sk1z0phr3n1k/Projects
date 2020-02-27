@@ -1,0 +1,6 @@
+C:\Users\MW_GR\source\repos\GriffithsListsAndDictionaries\GriffithsListsAndDictionaries\bin\Debug\GriffithsListsAndDictionaries.exe.config
+C:\Users\MW_GR\source\repos\GriffithsListsAndDictionaries\GriffithsListsAndDictionaries\bin\Debug\GriffithsListsAndDictionaries.exe
+C:\Users\MW_GR\source\repos\GriffithsListsAndDictionaries\GriffithsListsAndDictionaries\bin\Debug\GriffithsListsAndDictionaries.pdb
+C:\Users\MW_GR\source\repos\GriffithsListsAndDictionaries\GriffithsListsAndDictionaries\obj\Debug\GriffithsListsAndDictionaries.csprojAssemblyReference.cache
+C:\Users\MW_GR\source\repos\GriffithsListsAndDictionaries\GriffithsListsAndDictionaries\obj\Debug\GriffithsListsAndDictionaries.exe
+C:\Users\MW_GR\source\repos\GriffithsListsAndDictionaries\GriffithsListsAndDictionaries\obj\Debug\GriffithsListsAndDictionaries.pdb

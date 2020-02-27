@@ -1,0 +1,6 @@
+C:\Users\MW_GR\source\repos\GriffithsLinq\GriffithsLinq\bin\Debug\GriffithsLinq.exe.config
+C:\Users\MW_GR\source\repos\GriffithsLinq\GriffithsLinq\bin\Debug\GriffithsLinq.exe
+C:\Users\MW_GR\source\repos\GriffithsLinq\GriffithsLinq\bin\Debug\GriffithsLinq.pdb
+C:\Users\MW_GR\source\repos\GriffithsLinq\GriffithsLinq\obj\Debug\GriffithsLinq.csprojAssemblyReference.cache
+C:\Users\MW_GR\source\repos\GriffithsLinq\GriffithsLinq\obj\Debug\GriffithsLinq.exe
+C:\Users\MW_GR\source\repos\GriffithsLinq\GriffithsLinq\obj\Debug\GriffithsLinq.pdb

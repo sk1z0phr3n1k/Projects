@@ -1,0 +1,5 @@
+C:\Users\MW_GR\source\repos\HelpDeskCalls\HelpDeskCalls\bin\Debug\HelpDeskCalls.exe.config
+C:\Users\MW_GR\source\repos\HelpDeskCalls\HelpDeskCalls\bin\Debug\HelpDeskCalls.exe
+C:\Users\MW_GR\source\repos\HelpDeskCalls\HelpDeskCalls\bin\Debug\HelpDeskCalls.pdb
+C:\Users\MW_GR\source\repos\HelpDeskCalls\HelpDeskCalls\obj\Debug\HelpDeskCalls.exe
+C:\Users\MW_GR\source\repos\HelpDeskCalls\HelpDeskCalls\obj\Debug\HelpDeskCalls.pdb
